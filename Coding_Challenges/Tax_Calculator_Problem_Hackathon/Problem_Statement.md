@@ -137,6 +137,3 @@ The program must:
 - Include unit tests for tax slab calculations and validation rules.
 - Consider edge cases: incomes exactly on slab boundaries, 0 salary, and rebate applicability.
 
----
-
-*Prepared for: SkillAssure HandsOn Framework (SAHF) — Inspiring excellence.*
