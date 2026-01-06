@@ -1,20 +1,17 @@
-// Lab 6: Email Simulation and JSON Display
+// Lab 11: Asynchronous Payment Processing
 
-let emailAddress = prompt("Enter your email address:");
+async function processPayment(paymentMode) {
+    console.log("Processing payment...");
 
-if (emailAddress.endsWith("@karunya.edu")) {
-    console.log("Invoice sent to:", emailAddress);
-} else {
-    console.log("Invalid email domain. Email not sent.");
+    await new Promise(resolve => setTimeout(resolve, 2000));
+
+    return "Payment Successful using " + paymentMode;
 }
 
-let invoiceData = {
-    invoiceNumber: "INV1001",
-    amount: 3200,
-    status: "Paid"
-};
+async function makePayment() {
+    let mode = prompt("Enter payment mode:");
+    let result = await processPayment(mode);
+    console.log(result);
+}
 
-console.log("Invoice Data in JSON format:");
-console.log(JSON.stringify(invoiceData));
-
-console.log("Thank you for shopping with us!");
+makePayment();
