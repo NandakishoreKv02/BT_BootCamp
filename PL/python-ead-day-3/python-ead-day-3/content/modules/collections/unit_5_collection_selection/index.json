@@ -1,0 +1,49 @@
+{
+    "use_case": "healthcare_data_architect",
+    "title": "Collection Selection Guide",
+    "description": "Master the logic for choosing between lists, tuples, sets, and dictionaries based on performance and safety.",
+    "labs": [
+        {
+            "lab": 1,
+            "difficulty": "easy"
+        },
+        {
+            "lab": 2,
+            "difficulty": "intermediate"
+        },
+        {
+            "lab": 3,
+            "difficulty": "advanced"
+        }
+    ],
+    "exercises": [
+        {
+            "id": "ex_1",
+            "difficulty": "intermediate"
+        },
+        {
+            "id": "ex_2",
+            "difficulty": "intermediate"
+        },
+        {
+            "id": "ex_3",
+            "difficulty": "intermediate"
+        },
+        {
+            "id": "ex_4",
+            "difficulty": "intermediate"
+        },
+        {
+            "id": "ex_5",
+            "difficulty": "intermediate"
+        },
+        {
+            "id": "ex_6",
+            "difficulty": "intermediate"
+        },
+        {
+            "id": "ex_7",
+            "difficulty": "intermediate"
+        }
+    ]
+}

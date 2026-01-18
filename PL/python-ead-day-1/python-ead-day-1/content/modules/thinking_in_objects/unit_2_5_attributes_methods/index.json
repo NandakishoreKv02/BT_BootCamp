@@ -1,0 +1,42 @@
+{
+    "id": "unit_2_5_attributes_methods",
+    "title": "Attributes and Methods: State and Behavior",
+    "description": "Master the details of how objects store data and perform actions. Learn the critical difference between Class and Instance attributes, design professional method signatures, and ensure high cohesion within your classes.",
+    "type": "unit",
+    "order": 5,
+    "knowledge_file": "knowledge/lesson_05.md",
+    "learning_outcomes_file": "LEARNING_OUTCOMES.md",
+    "exercises_file": "exercises/unit_2_5_attributes_methods_exercises.py",
+    "app_labs": [
+        {
+            "lab": 1,
+            "difficulty": "easy",
+            "path": "app_labs/lab_1_easy"
+        },
+        {
+            "lab": 2,
+            "difficulty": "easy",
+            "path": "app_labs/lab_2_easy"
+        },
+        {
+            "lab": 3,
+            "difficulty": "intermediate",
+            "path": "app_labs/lab_3_intermediate"
+        },
+        {
+            "lab": 4,
+            "difficulty": "intermediate",
+            "path": "app_labs/lab_4_intermediate"
+        },
+        {
+            "lab": 5,
+            "difficulty": "advanced",
+            "path": "app_labs/lab_5_advanced"
+        },
+        {
+            "lab": 6,
+            "difficulty": "expert",
+            "path": "app_labs/lab_6_expert"
+        }
+    ]
+}

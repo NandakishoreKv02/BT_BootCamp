@@ -1,0 +1,10 @@
+{
+    "id": "unit_1_1_introduction_to_python",
+    "title": "Introduction to Python",
+    "description": "Get started with Python: its history, philosophy, and role in the modern developer ecosystem.",
+    "type": "unit",
+    "order": 1,
+    "knowledge_file": "knowledge/lesson_01.md",
+    "learning_outcomes_file": "LEARNING_OUTCOMES.md",
+    "exercises_file": "exercises/README.md"
+}

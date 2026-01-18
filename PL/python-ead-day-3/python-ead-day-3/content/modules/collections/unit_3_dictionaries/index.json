@@ -1,0 +1,29 @@
+{
+    "use_case": "patient_records_management",
+    "title": "Patient Records Management",
+    "description": "Master dictionary operations to build a fast, efficient patient lookup and records management system.",
+    "labs": [
+        {
+            "lab": 1,
+            "difficulty": "easy"
+        },
+        {
+            "lab": 2,
+            "difficulty": "intermediate"
+        },
+        {
+            "lab": 3,
+            "difficulty": "advanced"
+        }
+    ],
+    "exercises": [
+        {
+            "id": "ex_1",
+            "difficulty": "easy"
+        },
+        {
+            "id": "ex_2",
+            "difficulty": "easy"
+        }
+    ]
+}

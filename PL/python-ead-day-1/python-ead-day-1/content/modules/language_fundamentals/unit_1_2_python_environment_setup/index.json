@@ -1,0 +1,10 @@
+{
+    "id": "unit_1_2_python_environment_setup",
+    "title": "Python Environment Setup",
+    "description": "Learn how to install Python, configure your development environment, and use essential tools like virtual environments and IDEs.",
+    "type": "unit",
+    "order": 2,
+    "knowledge_file": "knowledge/lesson_02.md",
+    "learning_outcomes_file": "LEARNING_OUTCOMES.md",
+    "exercises_file": "exercises/README.md"
+}

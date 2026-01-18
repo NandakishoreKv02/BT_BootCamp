@@ -1,0 +1,42 @@
+{
+    "id": "unit_2_3_classes_and_objects",
+    "title": "Classes and Objects: The Core Concepts",
+    "description": "Transition from dictionary-based 'proto-objects' to formal Python classes. Understand the relationship between the class blueprint and the runtime object, and master the concepts of Identity, State, and Behavior.",
+    "type": "unit",
+    "order": 3,
+    "knowledge_file": "knowledge/lesson_03.md",
+    "learning_outcomes_file": "LEARNING_OUTCOMES.md",
+    "exercises_file": "exercises/unit_2_3_classes_and_objects_exercises.py",
+    "app_labs": [
+        {
+            "lab": 1,
+            "difficulty": "easy",
+            "path": "app_labs/lab_1_easy"
+        },
+        {
+            "lab": 2,
+            "difficulty": "easy",
+            "path": "app_labs/lab_2_easy"
+        },
+        {
+            "lab": 3,
+            "difficulty": "intermediate",
+            "path": "app_labs/lab_3_intermediate"
+        },
+        {
+            "lab": 4,
+            "difficulty": "intermediate",
+            "path": "app_labs/lab_4_intermediate"
+        },
+        {
+            "lab": 5,
+            "difficulty": "advanced",
+            "path": "app_labs/lab_5_advanced"
+        },
+        {
+            "lab": 6,
+            "difficulty": "expert",
+            "path": "app_labs/lab_6_expert"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "unit_1_9_error_handling_and_debugging_basics",
+    "title": "Error Handling & Debugging Basics",
+    "description": "Learn to manage runtime errors gracefully using try/except blocks and develop foundational debugging skills for healthcare software stability.",
+    "type": "unit",
+    "order": 9,
+    "knowledge_file": "knowledge/lesson_09.md",
+    "learning_outcomes_file": "LEARNING_OUTCOMES.md",
+    "exercises_file": "exercises/unit_1_9_error_handling_exercises.py",
+    "app_labs": [
+        {
+            "lab": 1,
+            "difficulty": "easy",
+            "path": "app_labs/lab_1_easy"
+        },
+        {
+            "lab": 2,
+            "difficulty": "easy",
+            "path": "app_labs/lab_2_easy"
+        },
+        {
+            "lab": 3,
+            "difficulty": "intermediate",
+            "path": "app_labs/lab_3_intermediate"
+        },
+        {
+            "lab": 4,
+            "difficulty": "intermediate",
+            "path": "app_labs/lab_4_intermediate"
+        },
+        {
+            "lab": 5,
+            "difficulty": "advanced",
+            "path": "app_labs/lab_5_advanced"
+        },
+        {
+            "lab": 6,
+            "difficulty": "expert",
+            "path": "app_labs/lab_6_expert"
+        }
+    ]
+}

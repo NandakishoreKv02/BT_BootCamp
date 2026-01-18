@@ -1,0 +1,49 @@
+{
+    "use_case": "unique_patient_tracking",
+    "title": "Sets in Python",
+    "description": "Master sets for handling unique collections of data, Venn diagram operations, and fast membership testing.",
+    "labs": [
+        {
+            "lab": 1,
+            "difficulty": "easy"
+        },
+        {
+            "lab": 2,
+            "difficulty": "intermediate"
+        },
+        {
+            "lab": 3,
+            "difficulty": "advanced"
+        }
+    ],
+    "exercises": [
+        {
+            "id": "ex_1",
+            "difficulty": "easy"
+        },
+        {
+            "id": "ex_2",
+            "difficulty": "easy"
+        },
+        {
+            "id": "ex_3",
+            "difficulty": "easy"
+        },
+        {
+            "id": "ex_4",
+            "difficulty": "easy"
+        },
+        {
+            "id": "ex_5",
+            "difficulty": "intermediate"
+        },
+        {
+            "id": "ex_6",
+            "difficulty": "intermediate"
+        },
+        {
+            "id": "ex_7",
+            "difficulty": "intermediate"
+        }
+    ]
+}

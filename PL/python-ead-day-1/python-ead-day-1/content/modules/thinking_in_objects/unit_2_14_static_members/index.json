@@ -1,0 +1,42 @@
+{
+    "id": "unit_2_14_static_members",
+    "title": "Static Members and Utility Behavior",
+    "description": "Learn to manage shared state and utility logic across your surgical systems. Master Static variables, @staticmethod for unit conversions, and @classmethod for advanced object fulfillment through factories.",
+    "type": "unit",
+    "order": 14,
+    "knowledge_file": "knowledge/lesson_14.md",
+    "learning_outcomes_file": "LEARNING_OUTCOMES.md",
+    "exercises_file": "exercises/unit_2_14_static_exercises.py",
+    "app_labs": [
+        {
+            "lab": 1,
+            "difficulty": "easy",
+            "path": "app_labs/lab_1_easy"
+        },
+        {
+            "lab": 2,
+            "difficulty": "easy",
+            "path": "app_labs/lab_2_easy"
+        },
+        {
+            "lab": 3,
+            "difficulty": "intermediate",
+            "path": "app_labs/lab_3_intermediate"
+        },
+        {
+            "lab": 4,
+            "difficulty": "intermediate",
+            "path": "app_labs/lab_4_intermediate"
+        },
+        {
+            "lab": 5,
+            "difficulty": "advanced",
+            "path": "app_labs/lab_5_advanced"
+        },
+        {
+            "lab": 6,
+            "difficulty": "expert",
+            "path": "app_labs/lab_6_expert"
+        }
+    ]
+}

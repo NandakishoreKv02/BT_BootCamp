@@ -1,0 +1,40 @@
+{
+    "id": "unit_4_3_advanced_oop_concepts",
+    "name": "Advanced OOP Concepts",
+    "description": "Master Mixins, Dataclasses, Slots, and Metaclasses for professional-grade Python applications.",
+    "order": 3,
+    "knowledge_file": "knowledge/unit_4_3_advanced_oop_concepts.md",
+    "exercises_file": "exercises/unit_4_3_advanced_oop_concepts_exercises.py",
+    "app_labs": [
+        {
+            "lab": 1,
+            "difficulty": "easy",
+            "path": "app_labs/lab_1_easy"
+        },
+        {
+            "lab": 2,
+            "difficulty": "easy",
+            "path": "app_labs/lab_2_easy"
+        },
+        {
+            "lab": 3,
+            "difficulty": "intermediate",
+            "path": "app_labs/lab_3_intermediate"
+        },
+        {
+            "lab": 4,
+            "difficulty": "intermediate",
+            "path": "app_labs/lab_4_intermediate"
+        },
+        {
+            "lab": 5,
+            "difficulty": "advanced",
+            "path": "app_labs/lab_5_advanced"
+        },
+        {
+            "lab": 6,
+            "difficulty": "expert",
+            "path": "app_labs/lab_6_expert"
+        }
+    ]
+}

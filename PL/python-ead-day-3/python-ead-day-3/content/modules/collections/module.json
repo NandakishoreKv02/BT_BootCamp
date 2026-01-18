@@ -1,0 +1,32 @@
+{
+  "id": "collections",
+  "name": "Collections",
+  "order": 1,
+  "units": [
+    {
+      "id": "unit_1_lists",
+      "name": "Lists",
+      "order": 1
+    },
+    {
+      "id": "unit_2_tuples",
+      "name": "Tuples",
+      "order": 2
+    },
+    {
+      "id": "unit_3_dictionaries",
+      "name": "Dictionaries",
+      "order": 3
+    },
+    {
+      "id": "unit_4_sets",
+      "name": "Sets",
+      "order": 4
+    },
+    {
+      "id": "unit_5_collection_selection",
+      "name": "Selection Guide",
+      "order": 5
+    }
+  ]
+}

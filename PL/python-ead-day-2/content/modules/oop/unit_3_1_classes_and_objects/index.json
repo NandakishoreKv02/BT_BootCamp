@@ -1,0 +1,47 @@
+{
+    "id": "unit_3_1_classes_and_objects",
+    "title": "Classes and Objects",
+    "description": "Master the foundations of Object-Oriented Programming by learning how to create blueprints (Classes) and concrete data structures (Objects).",
+    "type": "unit",
+    "order": 1,
+    "knowledge_file": "knowledge/unit_3_1_classes_and_objects.md",
+    "exercises_file": "exercises/unit_3_1_classes_and_objects_exercises.py",
+    "learning_outcomes_file": "LEARNING_OUTCOMES.md",
+    "app_labs": [
+        {
+            "lab": 1,
+            "difficulty": "easy",
+            "path": "app_labs/lab_1_easy"
+        },
+        {
+            "lab": 2,
+            "difficulty": "easy",
+            "path": "app_labs/lab_2_easy"
+        },
+        {
+            "lab": 3,
+            "difficulty": "intermediate",
+            "path": "app_labs/lab_3_intermediate"
+        },
+        {
+            "lab": 4,
+            "difficulty": "intermediate",
+            "path": "app_labs/lab_4_intermediate"
+        },
+        {
+            "lab": 5,
+            "difficulty": "advanced",
+            "path": "app_labs/lab_5_advanced"
+        },
+        {
+            "lab": 6,
+            "difficulty": "advanced",
+            "path": "app_labs/lab_6_advanced"
+        },
+        {
+            "lab": 7,
+            "difficulty": "expert",
+            "path": "app_labs/lab_7_expert"
+        }
+    ]
+}

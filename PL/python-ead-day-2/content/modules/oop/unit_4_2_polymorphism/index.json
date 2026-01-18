@@ -1,0 +1,41 @@
+{
+    "id": "unit_4_2_polymorphism",
+    "title": "Polymorphism",
+    "description": "Learn to write flexible and extensible code using Duck Typing, Method Overriding, and Operator Overloading.",
+    "type": "unit",
+    "order": 2,
+    "knowledge_file": "knowledge/lesson_06.md",
+    "exercises_file": "exercises/unit_4_2_polymorphism_exercises.py",
+    "app_labs": [
+        {
+            "lab": 1,
+            "difficulty": "easy",
+            "path": "app_labs/lab_1_easy"
+        },
+        {
+            "lab": 2,
+            "difficulty": "easy",
+            "path": "app_labs/lab_2_easy"
+        },
+        {
+            "lab": 3,
+            "difficulty": "intermediate",
+            "path": "app_labs/lab_3_intermediate"
+        },
+        {
+            "lab": 4,
+            "difficulty": "intermediate",
+            "path": "app_labs/lab_4_intermediate"
+        },
+        {
+            "lab": 5,
+            "difficulty": "advanced",
+            "path": "app_labs/lab_5_advanced"
+        },
+        {
+            "lab": 6,
+            "difficulty": "expert",
+            "path": "app_labs/lab_6_expert"
+        }
+    ]
+}

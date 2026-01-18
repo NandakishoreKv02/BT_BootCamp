@@ -1,0 +1,42 @@
+{
+    "id": "unit_2_7_deep_dive_has_a",
+    "title": "Has-a Relationships: A Deep Dive",
+    "description": "Go beyond simple containment to master multiplicity and lifecycle ownership. Learn how to model complex healthcare structures like wards with many beds, patients with multiple medications, and the bidirectional links that hold a hospital system together.",
+    "type": "unit",
+    "order": 7,
+    "knowledge_file": "knowledge/lesson_07.md",
+    "learning_outcomes_file": "LEARNING_OUTCOMES.md",
+    "exercises_file": "exercises/unit_2_7_deep_dive_exercises.py",
+    "app_labs": [
+        {
+            "lab": 1,
+            "difficulty": "easy",
+            "path": "app_labs/lab_1_easy"
+        },
+        {
+            "lab": 2,
+            "difficulty": "easy",
+            "path": "app_labs/lab_2_easy"
+        },
+        {
+            "lab": 3,
+            "difficulty": "intermediate",
+            "path": "app_labs/lab_3_intermediate"
+        },
+        {
+            "lab": 4,
+            "difficulty": "intermediate",
+            "path": "app_labs/lab_4_intermediate"
+        },
+        {
+            "lab": 5,
+            "difficulty": "advanced",
+            "path": "app_labs/lab_5_advanced"
+        },
+        {
+            "lab": 6,
+            "difficulty": "expert",
+            "path": "app_labs/lab_6_expert"
+        }
+    ]
+}

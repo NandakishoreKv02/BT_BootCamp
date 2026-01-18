@@ -1,0 +1,41 @@
+{
+    "id": "unit_5_1_exception_basics",
+    "title": "Exception Basics",
+    "description": "Understand the core concepts of Python exception handling, including try-except blocks, catching multiple exceptions, and the exception hierarchy.",
+    "type": "unit",
+    "order": 1,
+    "knowledge_file": "knowledge/lesson_01.md",
+    "exercises_file": "exercises/unit_5_1_exception_basics_exercises.py",
+    "app_labs": [
+        {
+            "lab": 1,
+            "difficulty": "easy",
+            "path": "app_labs/lab_1_easy"
+        },
+        {
+            "lab": 2,
+            "difficulty": "easy",
+            "path": "app_labs/lab_2_easy"
+        },
+        {
+            "lab": 3,
+            "difficulty": "intermediate",
+            "path": "app_labs/lab_3_intermediate"
+        },
+        {
+            "lab": 4,
+            "difficulty": "intermediate",
+            "path": "app_labs/lab_4_intermediate"
+        },
+        {
+            "lab": 5,
+            "difficulty": "advanced",
+            "path": "app_labs/lab_5_advanced"
+        },
+        {
+            "lab": 6,
+            "difficulty": "expert",
+            "path": "app_labs/lab_6_expert"
+        }
+    ]
+}

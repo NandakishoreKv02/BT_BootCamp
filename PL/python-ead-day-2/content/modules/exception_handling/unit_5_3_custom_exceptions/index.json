@@ -1,0 +1,41 @@
+{
+    "id": "unit_5_3_custom_exceptions",
+    "title": "Custom Exceptions",
+    "description": "Learn to define, organize, and utilize domain-specific exception hierarchies to create expressive and maintainable error handling architectures.",
+    "type": "unit",
+    "order": 3,
+    "knowledge_file": "knowledge/lesson_03.md",
+    "exercises_file": "exercises/unit_5_3_custom_exceptions_exercises.py",
+    "app_labs": [
+        {
+            "lab": 1,
+            "difficulty": "easy",
+            "path": "app_labs/lab_1_easy"
+        },
+        {
+            "lab": 2,
+            "difficulty": "easy",
+            "path": "app_labs/lab_2_easy"
+        },
+        {
+            "lab": 3,
+            "difficulty": "intermediate",
+            "path": "app_labs/lab_3_intermediate"
+        },
+        {
+            "lab": 4,
+            "difficulty": "intermediate",
+            "path": "app_labs/lab_4_intermediate"
+        },
+        {
+            "lab": 5,
+            "difficulty": "advanced",
+            "path": "app_labs/lab_5_advanced"
+        },
+        {
+            "lab": 6,
+            "difficulty": "expert",
+            "path": "app_labs/lab_6_expert"
+        }
+    ]
+}

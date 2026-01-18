@@ -1,0 +1,28 @@
+{
+    "id": "module_5_exception_handling",
+    "title": "Exception Handling",
+    "description": "Master Python's error handling mechanisms to build robust, fault-tolerant healthcare applications.",
+    "order": 5,
+    "units": [
+        {
+            "id": "unit_5_1_exception_basics",
+            "name": "Exception Basics",
+            "order": 1
+        },
+        {
+            "id": "unit_5_2_advanced_exception_handling",
+            "name": "Advanced Exception Handling",
+            "order": 2
+        },
+        {
+            "id": "unit_5_3_custom_exceptions",
+            "name": "Custom Exceptions",
+            "order": 3
+        },
+        {
+            "id": "unit_5_4_best_practices",
+            "name": "Best Practices",
+            "order": 4
+        }
+    ]
+}

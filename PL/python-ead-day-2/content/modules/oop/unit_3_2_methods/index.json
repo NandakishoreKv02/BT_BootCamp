@@ -1,0 +1,47 @@
+{
+    "id": "unit_3_2_methods",
+    "title": "Methods",
+    "description": "Master the behavior of objects using instance, class, and static methods, and understand how to manage side effects.",
+    "type": "unit",
+    "order": 2,
+    "knowledge_file": "knowledge/unit_3_2_methods.md",
+    "exercises_file": "exercises/unit_3_2_methods_exercises.py",
+    "learning_outcomes_file": "LEARNING_OUTCOMES.md",
+    "app_labs": [
+        {
+            "lab": 1,
+            "difficulty": "easy",
+            "path": "app_labs/lab_1_easy"
+        },
+        {
+            "lab": 2,
+            "difficulty": "easy",
+            "path": "app_labs/lab_2_easy"
+        },
+        {
+            "lab": 3,
+            "difficulty": "intermediate",
+            "path": "app_labs/lab_3_intermediate"
+        },
+        {
+            "lab": 4,
+            "difficulty": "intermediate",
+            "path": "app_labs/lab_4_intermediate"
+        },
+        {
+            "lab": 5,
+            "difficulty": "advanced",
+            "path": "app_labs/lab_5_advanced"
+        },
+        {
+            "lab": 6,
+            "difficulty": "advanced",
+            "path": "app_labs/lab_6_advanced"
+        },
+        {
+            "lab": 7,
+            "difficulty": "expert",
+            "path": "app_labs/lab_7_expert"
+        }
+    ]
+}

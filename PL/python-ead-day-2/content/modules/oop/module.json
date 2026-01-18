@@ -1,0 +1,47 @@
+{
+    "id": "oop",
+    "name": "Object-Oriented Programming Part 2",
+    "order": 3,
+    "units": [
+        {
+            "id": "unit_3_1_classes_and_objects",
+            "name": "Classes and Objects",
+            "order": 1
+        },
+        {
+            "id": "unit_3_2_methods",
+            "name": "Methods",
+            "order": 2
+        },
+        {
+            "id": "unit_3_3_properties_and_encapsulation",
+            "name": "Properties and Encapsulation",
+            "order": 3
+        },
+        {
+            "id": "unit_3_4_special_methods",
+            "name": "Special Methods",
+            "order": 4
+        },
+        {
+            "id": "unit_4_1_inheritance",
+            "name": "Inheritance",
+            "order": 5
+        },
+        {
+            "id": "unit_4_2_polymorphism",
+            "name": "Polymorphism",
+            "order": 6
+        },
+        {
+            "id": "unit_4_3_advanced_oop_concepts",
+            "name": "Advanced OOP Concepts",
+            "order": 7
+        },
+        {
+            "id": "unit_4_4_design_patterns",
+            "name": "Design Patterns",
+            "order": 8
+        }
+    ]
+}

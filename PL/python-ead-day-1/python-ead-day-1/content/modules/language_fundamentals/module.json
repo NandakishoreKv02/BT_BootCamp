@@ -1,0 +1,67 @@
+{
+    "id": "language_fundamentals",
+    "name": "Language Fundamentals with Python",
+    "order": 1,
+    "units": [
+        {
+            "id": "unit_1_1_introduction_to_python",
+            "name": "Introduction to Python",
+            "order": 1
+        },
+        {
+            "id": "unit_1_2_python_environment_setup",
+            "name": "Python Environment Setup",
+            "order": 2
+        },
+        {
+            "id": "unit_1_3_python_program_structure",
+            "name": "Python Program Structure",
+            "order": 3
+        },
+        {
+            "id": "unit_1_4_variables_and_data_types",
+            "name": "Variables & Data Types",
+            "order": 4
+        },
+        {
+            "id": "unit_1_5_operators_and_expressions",
+            "name": "Operators & Expressions",
+            "order": 5
+        },
+        {
+            "id": "unit_1_6_control_flow_statements",
+            "name": "Control Flow Statements",
+            "order": 6
+        },
+        {
+            "id": "unit_1_7_core_built_in_data_structures",
+            "name": "Core Built-in Data Structures",
+            "order": 7
+        },
+        {
+            "id": "unit_1_8_functions",
+            "name": "Functions",
+            "order": 8
+        },
+        {
+            "id": "unit_1_9_error_handling_and_debugging_basics",
+            "name": "Error Handling & Debugging Basics",
+            "order": 9
+        },
+        {
+            "id": "unit_1_10_io_and_utils",
+            "name": "Input, Output & Basic Utilities",
+            "order": 10
+        },
+        {
+            "id": "unit_1_11_coding_standards",
+            "name": "Python Coding Standards & Best Practices",
+            "order": 11
+        },
+        {
+            "id": "unit_1_12_hands_on_labs",
+            "name": "Hands-on Labs & Exercises",
+            "order": 12
+        }
+    ]
+}

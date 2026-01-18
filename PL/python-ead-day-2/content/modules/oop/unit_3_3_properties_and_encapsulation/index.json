@@ -1,0 +1,42 @@
+{
+    "id": "unit_3_3_properties_and_encapsulation",
+    "title": "Properties and Encapsulation",
+    "description": "Master controlled access to object attributes using properties, getters, setters, and encapsulation principles.",
+    "type": "unit",
+    "order": 3,
+    "knowledge_file": "knowledge/unit_3_3_properties_and_encapsulation.md",
+    "exercises_file": "exercises/unit_3_3_properties_and_encapsulation_exercises.py",
+    "learning_outcomes_file": "LEARNING_OUTCOMES.md",
+    "app_labs": [
+        {
+            "lab": 1,
+            "difficulty": "easy",
+            "path": "app_labs/lab_1_easy"
+        },
+        {
+            "lab": 2,
+            "difficulty": "easy",
+            "path": "app_labs/lab_2_easy"
+        },
+        {
+            "lab": 3,
+            "difficulty": "intermediate",
+            "path": "app_labs/lab_3_intermediate"
+        },
+        {
+            "lab": 4,
+            "difficulty": "intermediate",
+            "path": "app_labs/lab_4_intermediate"
+        },
+        {
+            "lab": 5,
+            "difficulty": "advanced",
+            "path": "app_labs/lab_5_advanced"
+        },
+        {
+            "lab": 6,
+            "difficulty": "expert",
+            "path": "app_labs/lab_6_expert"
+        }
+    ]
+}

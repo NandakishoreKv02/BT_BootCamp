@@ -1,0 +1,42 @@
+{
+    "id": "unit_2_1_procedural_to_oop",
+    "title": "From Procedural to Object-Oriented Thinking",
+    "description": "Understand the limitations of procedural code and embrace the object-oriented mindset. Learn to map real-world entities to software objects and identify when (and when not) to use OOP.",
+    "type": "unit",
+    "order": 1,
+    "knowledge_file": "knowledge/lesson_01.md",
+    "learning_outcomes_file": "LEARNING_OUTCOMES.md",
+    "exercises_file": "exercises/unit_2_1_procedural_to_oop_exercises.py",
+    "app_labs": [
+        {
+            "lab": 1,
+            "difficulty": "easy",
+            "path": "app_labs/lab_1_easy"
+        },
+        {
+            "lab": 2,
+            "difficulty": "easy",
+            "path": "app_labs/lab_2_easy"
+        },
+        {
+            "lab": 3,
+            "difficulty": "intermediate",
+            "path": "app_labs/lab_3_intermediate"
+        },
+        {
+            "lab": 4,
+            "difficulty": "intermediate",
+            "path": "app_labs/lab_4_intermediate"
+        },
+        {
+            "lab": 5,
+            "difficulty": "advanced",
+            "path": "app_labs/lab_5_advanced"
+        },
+        {
+            "lab": 6,
+            "difficulty": "expert",
+            "path": "app_labs/lab_6_expert"
+        }
+    ]
+}

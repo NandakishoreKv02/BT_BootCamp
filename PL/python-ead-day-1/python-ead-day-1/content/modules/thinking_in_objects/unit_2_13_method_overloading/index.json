@@ -1,0 +1,42 @@
+{
+    "id": "unit_2_13_method_overloading",
+    "title": "Method Overloading & Python's Approach",
+    "description": "Understand why Python handles method overloading differently than Java or C++. Learn to use default arguments, *args, and **kwargs to create flexible, clinical-grade method interfaces.",
+    "type": "unit",
+    "order": 13,
+    "knowledge_file": "knowledge/lesson_13.md",
+    "learning_outcomes_file": "LEARNING_OUTCOMES.md",
+    "exercises_file": "exercises/unit_2_13_overloading_exercises.py",
+    "app_labs": [
+        {
+            "lab": 1,
+            "difficulty": "easy",
+            "path": "app_labs/lab_1_easy"
+        },
+        {
+            "lab": 2,
+            "difficulty": "easy",
+            "path": "app_labs/lab_2_easy"
+        },
+        {
+            "lab": 3,
+            "difficulty": "intermediate",
+            "path": "app_labs/lab_3_intermediate"
+        },
+        {
+            "lab": 4,
+            "difficulty": "intermediate",
+            "path": "app_labs/lab_4_intermediate"
+        },
+        {
+            "lab": 5,
+            "difficulty": "advanced",
+            "path": "app_labs/lab_5_advanced"
+        },
+        {
+            "lab": 6,
+            "difficulty": "expert",
+            "path": "app_labs/lab_6_expert"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "unit_5_2_advanced_exception_handling",
+    "title": "Advanced Exception Handling",
+    "description": "Master robust error management using finally blocks, nested handlers, re-raising patterns, exception chaining, and context managers for automated resource cleanup.",
+    "type": "unit",
+    "order": 2,
+    "knowledge_file": "knowledge/lesson_02.md",
+    "exercises_file": "exercises/unit_5_2_advanced_exception_handling_exercises.py",
+    "app_labs": [
+        {
+            "lab": 1,
+            "difficulty": "easy",
+            "path": "app_labs/lab_1_easy"
+        },
+        {
+            "lab": 2,
+            "difficulty": "easy",
+            "path": "app_labs/lab_2_easy"
+        },
+        {
+            "lab": 3,
+            "difficulty": "intermediate",
+            "path": "app_labs/lab_3_intermediate"
+        },
+        {
+            "lab": 4,
+            "difficulty": "intermediate",
+            "path": "app_labs/lab_4_intermediate"
+        },
+        {
+            "lab": 5,
+            "difficulty": "advanced",
+            "path": "app_labs/lab_5_advanced"
+        },
+        {
+            "lab": 6,
+            "difficulty": "expert",
+            "path": "app_labs/lab_6_expert"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "id": "thinking_in_objects",
+    "name": "Thinking in Objects",
+    "description": "Master the paradigm shift from procedural scripting to architectural object-oriented design. Learn how to model real-world systems, identify classes, and structure maintainable, scalable software.",
+    "order": 2,
+    "units": [
+        {
+            "id": "unit_2_1_procedural_to_oop",
+            "name": "From Procedural to Object-Oriented Thinking",
+            "order": 1
+        },
+        {
+            "id": "unit_2_2_why_oop",
+            "name": "Why Object-Oriented Programming?",
+            "order": 2
+        },
+        {
+            "id": "unit_2_3_classes_and_objects",
+            "name": "Classes and Objects – Core Concepts",
+            "order": 3
+        },
+        {
+            "id": "unit_2_4_identifying_classes",
+            "name": "Identifying Classes – Analysis & Modelling",
+            "order": 4
+        },
+        {
+            "id": "unit_2_5_attributes_methods",
+            "name": "Attributes and Methods",
+            "order": 5
+        },
+        {
+            "id": "unit_2_6_relationships",
+            "name": "Relationships Between Classes",
+            "order": 6
+        },
+        {
+            "id": "unit_2_7_deep_dive_has_a",
+            "name": "Has-a Relationships – Deep Dive",
+            "order": 7
+        },
+        {
+            "id": "unit_2_8_modelling_exercises",
+            "name": "Modelling Exercises (Real-world Scenarios)",
+            "order": 8
+        },
+        {
+            "id": "unit_2_9_representing_classes",
+            "name": "Representing Classes in Python",
+            "order": 9
+        },
+        {
+            "id": "unit_2_10_access_control",
+            "name": "Access Control & Encapsulation",
+            "order": 10
+        },
+        {
+            "id": "unit_2_11_constructors_lifecycle",
+            "name": "Constructors & Object Lifecycle",
+            "order": 11
+        },
+        {
+            "id": "unit_2_12_inheritance_polymorphism",
+            "name": "Inheritance & Polymorphism",
+            "order": 12
+        },
+        {
+            "id": "unit_2_13_method_overloading",
+            "name": "Method Overloading & Python’s Approach",
+            "order": 13
+        },
+        {
+            "id": "unit_2_14_static_members",
+            "name": "Static Members and Utility Behavior",
+            "order": 14
+        },
+        {
+            "id": "unit_2_15_abstraction_principles",
+            "name": "Abstraction & Design Principles",
+            "order": 15
+        },
+        {
+            "id": "unit_2_16_putting_it_all_together",
+            "name": "Putting It All Together",
+            "order": 16
+        }
+    ]
+}

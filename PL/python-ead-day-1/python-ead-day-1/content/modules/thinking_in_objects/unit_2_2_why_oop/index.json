@@ -1,0 +1,42 @@
+{
+    "id": "unit_2_2_why_oop",
+    "title": "Why Object-Oriented Programming?",
+    "description": "Explore the strategic benefits of the OOP paradigm: modularity, reusability, and scalability. Learn why large-scale industrial systems, especially in healthcare, rely on objects to manage complexity.",
+    "type": "unit",
+    "order": 2,
+    "knowledge_file": "knowledge/lesson_02.md",
+    "learning_outcomes_file": "LEARNING_OUTCOMES.md",
+    "exercises_file": "exercises/unit_2_2_why_oop_exercises.py",
+    "app_labs": [
+        {
+            "lab": 1,
+            "difficulty": "easy",
+            "path": "app_labs/lab_1_easy"
+        },
+        {
+            "lab": 2,
+            "difficulty": "easy",
+            "path": "app_labs/lab_2_easy"
+        },
+        {
+            "lab": 3,
+            "difficulty": "intermediate",
+            "path": "app_labs/lab_3_intermediate"
+        },
+        {
+            "lab": 4,
+            "difficulty": "intermediate",
+            "path": "app_labs/lab_4_intermediate"
+        },
+        {
+            "lab": 5,
+            "difficulty": "advanced",
+            "path": "app_labs/lab_5_advanced"
+        },
+        {
+            "lab": 6,
+            "difficulty": "expert",
+            "path": "app_labs/lab_6_expert"
+        }
+    ]
+}
