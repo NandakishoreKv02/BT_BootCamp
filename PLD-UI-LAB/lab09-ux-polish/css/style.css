@@ -1,0 +1,310 @@
+/* Global Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Typography */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f6f8;
+    color: #333;
+}
+
+/* Header */
+header {
+    background-color: #1f2933;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+
+/* Navigation */
+nav {
+    background-color: #e5e7eb;
+    padding: 0.75rem;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+    list-style: none;
+}
+
+nav a {
+    text-decoration: none;
+    color: #1f2933;
+    font-weight: bold;
+}
+
+/* Main Layout */
+main {
+    padding: 2rem;
+    max-width: 1000px;
+    margin: auto;
+}
+
+/* Sections */
+section {
+    margin-bottom: 2rem;
+}
+
+/* Center section headings */
+section h2 {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+/* Cards */
+article {
+    background-color: white;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 6px;
+    border: 1px solid #ddd;
+}
+/* Card base style */
+.card {
+    background-color: #ffffff;
+}
+
+
+/* Login Form */
+form {
+    max-width: 400px;
+    margin: auto;
+}
+
+form div {
+    margin-bottom: 1rem;
+}
+
+label {
+    font-weight: bold;
+}
+
+input {
+    width: 100%;
+    padding: 0.5rem;
+    margin-top: 0.25rem;
+}
+
+button {
+    width: 100%;
+    padding: 0.6rem;
+    background-color: #2563eb;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #1d4ed8;
+}
+
+/* Gallery */
+figure {
+    text-align: center;
+}
+
+figcaption {
+    margin-top: 0.5rem;
+    font-size: 0.9rem;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #1f2933;
+    color: white;
+}
+
+summary {
+    list-style: none;
+}
+
+summary::-webkit-details-marker {
+    display: none;
+}
+
+/* Cross-browser support */
+
+header,
+footer {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+/* Smooth hover transition fallback */
+figure figcaption {
+    -webkit-transition: opacity 0.3s ease;
+    transition: opacity 0.3s ease;
+}
+
+/* Hover & focus enhancements */
+
+nav a {
+    transition: color 0.3s ease;
+}
+
+nav a:hover {
+    color: #2563eb;
+}
+
+button:focus,
+input:focus {
+    outline: 2px solid #2563eb;
+    outline-offset: 2px;
+}
+
+/* Smooth card interactions */
+
+article,
+figure {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+article:hover,
+figure:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Skill badges - light mode */
+.skill-badge {
+    background-color: #e0e7ff; /* indigo-100 */
+    color: #1e3a8a;            /* indigo-800 */
+    font-weight: 500;
+}
+
+
+/* ===== Details / Summary UX ===== */
+
+details summary {
+    padding: 0.25rem 0;
+    transition: color 0.2s ease, padding-left 0.2s ease;
+}
+
+/* Hover indication */
+details summary:hover {
+    color: #2563eb;           /* blue-600 */
+    padding-left: 6px;
+}
+
+/* Remove default marker spacing */
+details summary::-webkit-details-marker {
+    display: none;
+}
+
+/* Open state (active module) */
+details[open] > summary {
+    color: #1d4ed8;           /* blue-700 */
+}
+
+
+/* Dark mode support */
+
+/* ===== Improved Dark Mode ===== */
+
+/* ================================
+   FORCE DARK MODE (FINAL FIX)
+   ================================ */
+
+@media (prefers-color-scheme: dark) {
+
+    /* Force body background & text */
+    body {
+        background-color: #0b1120 !important; /* deep navy */
+        color: #f1f5f9 !important;
+    }
+
+    /* Header & Footer */
+    header,
+    footer {
+        background-color: #020617 !important;
+        color: #f8fafc !important;
+    }
+
+    /* Navigation */
+    nav {
+        background-color: #020617 !important;
+    }
+
+    nav a {
+        color: #c7d2fe !important;
+    }
+
+    nav a:hover {
+        color: #60a5fa !important;
+    }
+
+    /* Main content */
+    main {
+        background-color: transparent !important;
+    }
+
+    /* Cards & sections */
+    section,
+    article,
+    figure {
+        background-color: #111827 !important;
+        color: #f1f5f9 !important;
+        border: 1px solid #1f2937 !important;
+    }
+
+    /* Text elements */
+    h1, h2, h3 {
+        color: #f8fafc !important;
+    }
+
+    p, li, figcaption, span {
+        color: #e5e7eb !important;
+    }
+
+    /* Inputs & buttons */
+    input,
+    button {
+        background-color: #020617 !important;
+        color: #f8fafc !important;
+        border: 1px solid #1f2937 !important;
+    }
+
+    input::placeholder {
+        color: #9ca3af !important;
+    }
+
+    button:hover {
+        background-color: #111827 !important;
+    }
+
+    /* Progress bar background override */
+    .bg-gray-200 {
+        background-color: #1f2937 !important;
+    }
+    .card {
+        background-color: #111827 !important; /* dark slate */
+        color: #f1f5f9 !important;
+        border: 1px solid #1f2937 !important;
+    }
+
+    .skill-badge {
+        background-color: #1e293b !important; /* slate-800 */
+        color: #f8fafc !important;           /* slate-50 */
+        border: 1px solid #334155 !important;
+    }
+
+    details summary:hover {
+        color: #60a5fa !important; /* blue-400 */
+    }
+
+    details[open] > summary {
+        color: #93c5fd !important; /* blue-300 */
+    }
+}
+
+

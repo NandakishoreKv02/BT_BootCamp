@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>PLD - Dashboard</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+    <h1>Dashboard</h1>
+</header>
+
+<nav>
+    <ul>
+        <li><a href="dashboard.html">Dashboard</a></li>
+        <li><a href="profile.html">Profile</a></li>
+        <li><a href="gallery.html">Gallery</a></li>
+        <li><a href="login.html">Logout</a></li>
+    </ul>
+</nav>
+
+<main class="grid grid-cols-1 md:grid-cols-3 gap-6">
+
+    <!-- Topics Explorer -->
+    <section class="md:col-span-2">
+        <h2 class="text-xl font-semibold mb-4">Topics Explorer</h2>
+
+        <details class="bg-white p-4 rounded shadow mb-3">
+            <summary class="font-bold cursor-pointer">
+                Module 1: HTML
+            </summary>
+
+            <details class="ml-4 mt-2">
+                <summary class="font-semibold cursor-pointer">
+                    Unit 1: Basics
+                </summary>
+                <ul class="list-disc ml-6 mt-2">
+                    <li>HTML Structure</li>
+                    <li>Semantic Tags</li>
+                </ul>
+            </details>
+        </details>
+
+        <details class="bg-white p-4 rounded shadow">
+            <summary class="font-bold cursor-pointer">
+                Module 2: CSS
+            </summary>
+
+            <details class="ml-4 mt-2">
+                <summary class="font-semibold cursor-pointer">
+                    Unit 1: Fundamentals
+                </summary>
+                <ul class="list-disc ml-6 mt-2">
+                    <li>Box Model</li>
+                    <li>Flexbox</li>
+                </ul>
+            </details>
+        </details>
+    </section>
+
+    <!-- Labs Tracker -->
+    <section>
+        <h2 class="text-xl font-semibold mb-4">Labs Progress</h2>
+
+        <div class="bg-white p-4 rounded shadow mb-3">
+            <p class="font-semibold">HTML Basics</p>
+            <div class="w-full bg-gray-200 rounded h-3 mt-2">
+                <div class="bg-green-500 h-3 rounded" style="width:100%"></div>
+            </div>
+            <p class="text-sm mt-1">Completed (100%)</p>
+        </div>
+
+        <div class="bg-white p-4 rounded shadow">
+            <p class="font-semibold">CSS Fundamentals</p>
+            <div class="w-full bg-gray-200 rounded h-3 mt-2">
+                <div class="bg-blue-500 h-3 rounded" style="width:60%"></div>
+            </div>
+            <p class="text-sm mt-1">In Progress (60%)</p>
+        </div>
+    </section>
+
+</main>
+
+<footer>
+    <p>&copy; 2026 Personal Learning Dashboard</p>
+</footer>
+
+</body>
+</html>
